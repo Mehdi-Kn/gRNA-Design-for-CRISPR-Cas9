@@ -1,5 +1,4 @@
 # gRNA Analysis for CRISPR-Cas9
-A Python-based tool for designing and evaluating gRNAs for CRISPR-Cas9 gene editing.
 
 ## Overview
 This project provides a Python-based tool for designing and evaluating guide RNAs (gRNAs) for use in CRISPR-Cas9 gene editing. The tool analyzes gRNAs for their potential efficiency, secondary structure, and off-target effects. This pipeline can be applied to any gene of interest.
